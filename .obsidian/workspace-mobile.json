@@ -16,26 +16,12 @@
             }
           },
           {
-            "id": "f037150666ac0792",
+            "id": "62966ee160e1289a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f9e673a4589c56b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Informatica/Matrici.md"
               }
             }
           }
@@ -106,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Test.md",
+            "file": "Informatica/Matrici.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Test.md",
+            "file": "Informatica/Matrici.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Test.md"
+            "file": "Informatica/Matrici.md"
           }
         }
       }
@@ -149,13 +135,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f037150666ac0792",
+  "active": "62966ee160e1289a",
   "lastOpenFiles": [
-    "Matematica 2024-01-23.excalidraw.md",
+    "Informatica/Matrici.md",
+    "Informatica",
+    "Excalidraw/Drawing 2024-01-23 12.03.15.excalidraw.md",
+    "Excalidraw",
     "Test.md",
+    "Italiano",
+    "Matematica/2024-01-23.excalidraw.md",
+    "Matematica/Matematica 2024-01-23.excalidraw.md",
+    "Matematica",
+    "Matematica 2024-01-23.excalidraw.md",
     "Untitled.md",
     "Test"
   ]
