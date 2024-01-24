@@ -11,8 +11,20 @@
             "id": "eaf3484872b42a9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematica/2024-01-23.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "0b2a2606ba3fbbb4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematica/Esercizi_24-01.md"
+              }
             }
           },
           {
@@ -92,7 +104,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatica/Matrici.md",
+            "file": "Matematica/Esercizi_24-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +121,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatica/Matrici.md",
+            "file": "Matematica/Esercizi_24-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +133,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Informatica/Matrici.md"
+            "file": "Matematica/Esercizi_24-01.md"
           }
         }
       }
@@ -139,15 +151,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "62966ee160e1289a",
+  "active": "0b2a2606ba3fbbb4",
   "lastOpenFiles": [
+    "Matematica/2024-01-23.excalidraw.md",
+    "Matematica/Esercizi_24-01.md",
     "Informatica/Matrici.md",
     "Informatica",
     "Excalidraw/Drawing 2024-01-23 12.03.15.excalidraw.md",
     "Excalidraw",
     "Test.md",
     "Italiano",
-    "Matematica/2024-01-23.excalidraw.md",
     "Matematica/Matematica 2024-01-23.excalidraw.md",
     "Matematica",
     "Matematica 2024-01-23.excalidraw.md",
