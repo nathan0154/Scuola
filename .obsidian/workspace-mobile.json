@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "63629f0c74dfd7c4",
+        "id": "21a2f9bf28f0d5c2",
         "type": "tabs",
         "children": [
           {
-            "id": "eaf3484872b42a9d",
+            "id": "46c248b91df6837a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematica/2024-01-23.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "0b2a2606ba3fbbb4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematica/Esercizi_24-01.md"
-              }
-            }
-          },
-          {
-            "id": "62966ee160e1289a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Informatica/Matrici.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Esercizi_24-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -121,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Esercizi_24-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Matematica/Esercizi_24-01.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -151,15 +124,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b2a2606ba3fbbb4",
+  "active": "46c248b91df6837a",
   "lastOpenFiles": [
+    "Test.md",
+    "Informatica/Matrici.md",
     "Matematica/2024-01-23.excalidraw.md",
     "Matematica/Esercizi_24-01.md",
-    "Informatica/Matrici.md",
     "Informatica",
     "Excalidraw/Drawing 2024-01-23 12.03.15.excalidraw.md",
     "Excalidraw",
-    "Test.md",
     "Italiano",
     "Matematica/Matematica 2024-01-23.excalidraw.md",
     "Matematica",
