@@ -4,26 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5b12ba0c3b846134",
+        "id": "f29e80a4118f0283",
         "type": "tabs",
         "children": [
           {
-            "id": "fd63579975bb6912",
+            "id": "fbafca7547989220",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematica/Esercizi_24-01.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "9e09f44be9b7a148",
+            "id": "2c2240d345765956",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Telecomunicazione/Contatori_asincroni.md"
+                "file": "TIPSIT/UTF 8.md"
               }
             }
           }
@@ -94,7 +92,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Telecomunicazione/Contatori_asincroni.md",
+            "file": "TIPSIT/UTF 8.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Telecomunicazione/Contatori_asincroni.md",
+            "file": "TIPSIT/UTF 8.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +121,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Telecomunicazione/Contatori_asincroni.md"
+            "file": "TIPSIT/UTF 8.md"
           }
         }
       }
@@ -141,11 +139,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9e09f44be9b7a148",
+  "active": "59dc1aca32fded4a",
   "lastOpenFiles": [
+    "TIPSIT",
+    "TIPSIT/UTF 8.md",
+    "Excalidraw/Drawing 2024-01-29 10.52.26.excalidraw.md",
+    "Untitled 1.md",
+    "Telecomunicazione/Contatori_asincroni.md",
     "Telecomunicazione",
     "Matematica/Disequazioni_esponenziali.md",
-    "Telecomunicazione/Contatori_asincroni.md",
     "Matematica/Esercizi_24-01.md",
     "Excalidraw/Drawing 2024-01-25 11.00.23.excalidraw.md",
     "Excalidraw/Drawing 2024-01-25 09.05.42.excalidraw.md",
