@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "21a2f9bf28f0d5c2",
+        "id": "5b12ba0c3b846134",
         "type": "tabs",
         "children": [
           {
-            "id": "46c248b91df6837a",
+            "id": "fd63579975bb6912",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematica/Esercizi_24-01.md"
+              }
+            }
+          },
+          {
+            "id": "bf8cc98af8c9b491",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematica/Disequazioni_esponenziali.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
+            "file": "Matematica/Disequazioni_esponenziali.md",
+            "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -97,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Matematica/Disequazioni_esponenziali.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Matematica/Disequazioni_esponenziali.md"
+          }
         }
       }
     ],
@@ -124,12 +141,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "46c248b91df6837a",
+  "active": "bf8cc98af8c9b491",
   "lastOpenFiles": [
-    "Test.md",
-    "Informatica/Matrici.md",
-    "Matematica/2024-01-23.excalidraw.md",
     "Matematica/Esercizi_24-01.md",
+    "Matematica/Disequazioni_esponenziali.md",
+    "Excalidraw/Drawing 2024-01-25 11.00.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-25 09.05.42.excalidraw.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-01-25 09.01.46.excalidraw.md",
+    "Informatica/Matrici.md",
+    "Test.md",
+    "Matematica/2024-01-23.excalidraw.md",
     "Informatica",
     "Excalidraw/Drawing 2024-01-23 12.03.15.excalidraw.md",
     "Excalidraw",
@@ -137,7 +159,6 @@
     "Matematica/Matematica 2024-01-23.excalidraw.md",
     "Matematica",
     "Matematica 2024-01-23.excalidraw.md",
-    "Untitled.md",
     "Test"
   ]
 }
