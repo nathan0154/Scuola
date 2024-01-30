@@ -24,9 +24,19 @@
                 "file": "TIPSIT/UTF 8.md"
               }
             }
+          },
+          {
+            "id": "16ce6355019e4135",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Matematica/Esercizi.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "TIPSIT/UTF 8.md",
+            "file": "Matematica/Esercizi.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "TIPSIT/UTF 8.md",
+            "file": "Matematica/Esercizi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -121,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "TIPSIT/UTF 8.md"
+            "file": "Matematica/Esercizi.md"
           }
         }
       }
@@ -139,10 +149,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59dc1aca32fded4a",
+  "active": "16ce6355019e4135",
   "lastOpenFiles": [
-    "TIPSIT",
     "TIPSIT/UTF 8.md",
+    "Matematica/Esercizi.md",
+    "TIPSIT",
     "Excalidraw/Drawing 2024-01-29 10.52.26.excalidraw.md",
     "Untitled 1.md",
     "Telecomunicazione/Contatori_asincroni.md",
