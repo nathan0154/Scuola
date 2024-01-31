@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f29e80a4118f0283",
+        "id": "5c63637ef6acf60e",
         "type": "tabs",
         "children": [
           {
-            "id": "fbafca7547989220",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2c2240d345765956",
+            "id": "f340962d4b434fd9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "TIPSIT/UTF 8.md"
-              }
-            }
-          },
-          {
-            "id": "16ce6355019e4135",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Matematica/Esercizi.md"
+                "file": "Inglese/Esercizi.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Matematica/Esercizi.md",
+            "file": "Inglese/Esercizi.md",
             "collapseAll": true,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Matematica/Esercizi.md",
+            "file": "Inglese/Esercizi.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Matematica/Esercizi.md"
+            "file": "Inglese/Esercizi.md"
           }
         }
       }
@@ -149,13 +130,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "16ce6355019e4135",
+  "active": "f340962d4b434fd9",
   "lastOpenFiles": [
+    "Inglese",
+    "SSSG INGLESE Past perfect and Past simple.pdf",
+    "Inglese/Esercizi.md",
     "TIPSIT/UTF 8.md",
+    "Excalidraw/Drawing 2024-01-31 08.58.46.excalidraw.md",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "Excalidraw/Drawing 2024-01-31 08.56.47.excalidraw.md",
     "Matematica/Esercizi.md",
     "TIPSIT",
     "Excalidraw/Drawing 2024-01-29 10.52.26.excalidraw.md",
-    "Untitled 1.md",
     "Telecomunicazione/Contatori_asincroni.md",
     "Telecomunicazione",
     "Matematica/Disequazioni_esponenziali.md",
